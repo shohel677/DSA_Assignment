@@ -1,4 +1,4 @@
-package DSA.AssignmentOne;
+package DSA.ArrayAssignment;
 
 import java.util.Arrays;
 

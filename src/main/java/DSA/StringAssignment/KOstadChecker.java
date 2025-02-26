@@ -1,4 +1,4 @@
-package DSA.AssignmentTwo;
+package DSA.StringAssignment;
 
 import java.util.HashMap;
 import java.util.Map;

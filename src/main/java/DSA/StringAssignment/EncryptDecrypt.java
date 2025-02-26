@@ -1,4 +1,4 @@
-package DSA.AssignmentTwo;
+package DSA.StringAssignment;
 
 public class EncryptDecrypt {
 

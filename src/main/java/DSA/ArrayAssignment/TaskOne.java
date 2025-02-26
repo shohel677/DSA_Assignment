@@ -1,4 +1,4 @@
-package DSA.AssignmentOne;
+package DSA.ArrayAssignment;
 
 public class TaskOne {
     public static void main(String[] args) {
